@@ -1,5 +1,5 @@
 ## Awards
-This project was generated using python version 3.6.and the Django framework. This project allows people to submit their websites and have them reviewed based on design,usability and content.
+This project was generated using python version 3.9.and the Django framework. This project allows people to submit their websites and have them reviewed based on design,usability and content.
 
 ## SETUP INSTRUCTIONS:
 
